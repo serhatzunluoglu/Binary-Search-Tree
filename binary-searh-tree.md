@@ -6,13 +6,13 @@
 
     7
 
-5, 7'den küçük olduğu için sol tarafına konulur:
+5, 7 den küçük olduğu için sol tarafına konulur:
 
     7
    /
   5
 
-1, 7'den ve 5'ten küçük olduğu için sol en alt tarafa konulur:
+1, 7 den ve 5 ten küçük olduğu için sol en alt tarafa konulur:
 
     7
    /
@@ -20,7 +20,7 @@
  /
 1
 
-8, 7'den byük olduğu için sağ alt tarafa konulur:
+8, 7 den büyük olduğu için sağ alt tarafa konulur:
 
     7
    / \
@@ -28,7 +28,7 @@
  /
 1
 
-3, 7 ve 5'ten küçük olduğu için onların sağına, 1'den büyük olduğu için onun sağına konulur:
+3, 7 ve 5 ten küçük olduğu için onların sağına, 1 den büyük olduğu için onun sağına konulur:
 
     7
    / \
@@ -38,7 +38,7 @@
  \
   3
 
-6, 7'den küçük olduğu için 7'nin soluna 5'ten büyük olduğu için 5'in sağına konulur:
+6, 7 den küçük olduğu için 7 nin soluna 5 ten büyük olduğu için 5 in sağına konulur:
 
     7
    / \
@@ -58,7 +58,7 @@
  / \
 0   3
 
-9, 7 ve 8'den büyük olduğu için sağ alt tarafa konulur:
+9, 7 ve 8 den büyük olduğu için sağ alt tarafa konulur:
 
       7
      / \
@@ -68,7 +68,7 @@
  / \
 0   3
 
-4, 7 ve 5 ten küçük olduğu için onların soluna , 1'den büyük olduğu için onun sağına ve 3'ten de büyük olduğu için onun sağına konulur:
+4, 7 ve 5 ten küçük olduğu için onların soluna , 1 den büyük olduğu için onun sağına ve 3 ten de büyük olduğu için onun sağına konulur:
 
       7
      / \
@@ -80,7 +80,7 @@
      \
       4
 
-2, 7 ve 5 ten küçük olduğu için onların soluna , 1'den büyük olduğu için onun sağına ve 3'ten de küçük olduğu için onun soluna konulur:
+2, 7 ve 5 ten küçük olduğu için onların soluna , 1 den büyük olduğu için onun sağına ve 3 ten de küçük olduğu için onun soluna konulur:
 
       7
      / \
